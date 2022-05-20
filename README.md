@@ -43,7 +43,9 @@
     - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
     - [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
 
+
 #### Other Apps & Configurations
+----------
 
 - [Spectacle](https://formulae.brew.sh/cask/spectacle?taget=_blank)
   ```bash
