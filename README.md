@@ -51,3 +51,17 @@
   ```bash
   brew install --cask spectacle
   ```
+
+
+#### Brewfile
+----------
+
+- Install Brew
+```bash 
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+- bundle Brewfile
+```bash 
+brew bundle --file Brewfile
+```
