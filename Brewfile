@@ -30,3 +30,5 @@ cask "visual-studio-code"
 cask "figma"
 # The unarchiver
 cask "the-unarchiver"
+# TMUX
+brew "tmux"
