@@ -1,0 +1,1 @@
+/Users/ugurcanatas/.config/nvim/init.lua
